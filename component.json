@@ -1,0 +1,6 @@
+{
+  "name": "mousetrap",
+  "description": "Mousetrap with Component",
+  "scripts": ["mousetrap.js", "mousetrap.min.js"],
+  "main": "mousetrap.js"
+}
